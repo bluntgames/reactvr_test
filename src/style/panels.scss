@@ -1,0 +1,19 @@
+
+
+#backdrop {
+    position: absolute;
+    width: 1200px;
+    height: 500px;
+    left: 50%;
+    margin-left: -600px;
+    top: 0;
+    z-index: -3;
+}
+
+#panel-table {
+    position: absolute;
+    max-height: 50%;
+    top: 50%;
+    position: absolute;
+    z-index: -1;
+}
